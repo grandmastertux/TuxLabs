@@ -1,2 +1,2 @@
 # TuxLabs
-Layout of TuxLabs at Home
+Layout of TuxLabs
